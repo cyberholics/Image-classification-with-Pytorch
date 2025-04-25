@@ -1,1 +1,1 @@
-# Image-classification-with-Pytorch
+# Implementing Image Classification WIth PyTorch
